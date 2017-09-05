@@ -1,2 +1,2 @@
-# spaceage
-Star wars themed mod
+# Space Age
+A Space Themed Mod
